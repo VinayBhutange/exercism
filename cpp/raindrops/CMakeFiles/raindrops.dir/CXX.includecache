@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/devil/exercism/cpp/raindrops/raindrops.cpp
+raindrops.h
+/home/devil/exercism/cpp/raindrops/raindrops.h
+
+/home/devil/exercism/cpp/raindrops/raindrops.h
+string
+-
+
