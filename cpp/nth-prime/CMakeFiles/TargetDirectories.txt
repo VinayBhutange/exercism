@@ -1,0 +1,4 @@
+/home/devil/exercism/cpp/nth-prime/CMakeFiles/edit_cache.dir
+/home/devil/exercism/cpp/nth-prime/CMakeFiles/rebuild_cache.dir
+/home/devil/exercism/cpp/nth-prime/CMakeFiles/test_nth-prime.dir
+/home/devil/exercism/cpp/nth-prime/CMakeFiles/nth-prime.dir
