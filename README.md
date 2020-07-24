@@ -1,2 +1,2 @@
 # exercism
-Solutions to the exerxise of exrcism of c++ track
+Solutions to the exerxise of exercism of c++ track
