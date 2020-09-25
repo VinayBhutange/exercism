@@ -10,7 +10,7 @@ namespace hello_world {
 // std::string hello_world::hello()
 string hello() {
     // Return the string we need.
-    return "Hello, World!";
+    return "HEllo Vinay!";
 }
 
 }  // namespace hello_world
